@@ -1,0 +1,13 @@
+calendar-app/
+├── public/
+│   └── events.json
+├── src/
+│   ├── components/
+│   │   ├── Calendar.jsx
+│   │   ├── CalendarHeader.jsx
+│   │   └── DayCell.jsx
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── package.json
+└── tailwind.config.js
